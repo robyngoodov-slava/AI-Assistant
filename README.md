@@ -82,4 +82,3 @@
   <br/>
   <sub>Stack: DeepSeek, Qwen, Suvvy.ai + Google Calendar API</sub>
 </div>
-```
