@@ -1,8 +1,9 @@
 # 🤖 ИИ-ассистент отдела продаж для ООО «Компания ЛИБЭР»
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=AI+Sales+Assistant+for+LIBER" alt="Логотип проекта"/>
   <p><i>Интеллектуальный помощник для автоматизации первичных продаж и записи клиентов</i></p>
+  <img src="https://github.com/robyngoodov-slava/AI-Assistant/blob/main/Screenshot1.png?raw=true" alt="Скриншот 1"/>
+   <img src="https://github.com/robyngoodov-slava/AI-Assistant/blob/main/Screenshot2.png?raw=true" alt="Скриншот 2"/>  
 </div>
 
 ## 📋 О проекте
